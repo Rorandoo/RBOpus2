@@ -6,7 +6,7 @@ title: Riftbound Opus
 v1.3 of the official Riftbound Core Rules as of March 30th, 2026
 
 
-## Reference Index
+## Definitions Index
 
 [[#group A|A]] | [[#group B|B]] | [[#group C|C]] | [[#group D|D]] | [[#group E|E]] | [[#group F|F]] | [[#group G|G]] | [[#group H|H]] | [[#group I|I]] | [[#group K|K]] | [[#group L|L]] | [[#group M|M]] | [[#group N|N]] | [[#group O|O]] | [[#group P|P]] | [[#group Q|Q]] | [[#group R|R]] | [[#group S|S]] | [[#group T|T]] | [[#group U|U]] | [[#group V|V]] | [[#group W|W]] | [[#group X|X]] | [[#group Z|Z]]
 
