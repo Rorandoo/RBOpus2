@@ -180,9 +180,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b0e4a87ce925d45c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "source/README.md",
+    "source/CODE_OF_CONDUCT.md",
+    "source/content/index.md"
+  ]
 }
